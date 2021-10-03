@@ -1,0 +1,31 @@
+.banner{
+               background-image: url("https://t4.ftcdn.net/jpg/03/20/49/25/240_F_320492538_vdtFyCoKnwk7hGka5azmPAicPZzgpexa.jpg"),
+               linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+               height: 400px;
+               width: 100.9%;
+               background-blend-mode: overlay;
+               background-repeat: no-repeat;
+               background-size: cover;
+
+}
+.title{
+               font-size: 70px;
+               font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+               color: rgb(182, 174, 174);
+
+}
+
+.button-nav{
+               margin: 5px;
+               padding: 10px;
+}
+.about-btn{
+               margin: 10px;
+               padding: 4px;
+               border-radius: 5px;
+}
+.about-btn:hover{
+               background-color: rgb(204, 188, 188);
+               color: black;
+               
+}
