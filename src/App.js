@@ -12,6 +12,7 @@ import Home from "./Components/Home/Home";
 import About from "./Components/AboutUs/About";
 import Error from "./Components/Error/Error"
 import Service from "./Components/Service/Service";
+import Others from "./Components/Others/Others";
 function App() {
   return (
     <div>
@@ -29,6 +30,9 @@ function App() {
           </Route>
           <Route path='/about'>
             <About></About>
+          </Route>
+          <Route path='/others'>
+            <Others></Others>
           </Route>
           <Route path="*">
             <Error></Error>
