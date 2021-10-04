@@ -10,9 +10,10 @@ const Cards = (props) => {
                                          <img className='img-width col-md-6' src={img} alt="" />
                                          </div>
                                              <div className='col-md-6'>
-                                             {/* <h4>{title}</h4> */}
-                                             <h6>{section}</h6>
-                                             <p>{level}</p>
+                                             
+                                             <h5>{section}</h5>
+                                             
+                                             <h6>{title}</h6>
                                              <p><small>{text}</small></p>
                                              <h6>Course fee: {fee}</h6>
                                              </div>

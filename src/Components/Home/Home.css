@@ -1,4 +1,11 @@
-
+/* 
 .home{
-height: 1600px;
+height: 700px;
+} */
+.home-part{
+               font-size: 25px;
+               font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+.home-page{
+               height: 700px;
 }

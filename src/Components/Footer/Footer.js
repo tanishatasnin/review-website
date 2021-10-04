@@ -4,8 +4,11 @@ import './Fotter.css'
 const Footer = () => {
                return (
                               <div className="footer text-center align-items-center justify-content-center">
-                                          <h1 >i am footr</h1>   
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor ullam aliquam consequatur eos vel <br /> earum dignissimos adipisci et illum modi veniam, eum pariatur perspiciatis labore enim. <br /> In non numquam maiores?</p>
+                                    <p>© 2021 kung fu house</p>
+                                    <p>
+                                    You can learn, just not on the same day, or the same way
+                                    </p>
+                                    <small>Tanisha tasnin kona</small>     
                               </div>
                );
 };

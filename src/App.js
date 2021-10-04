@@ -34,6 +34,9 @@ function App() {
           <Route path='/others'>
             <Others></Others>
           </Route>
+          <Route path='/'>
+  <Home></Home>
+</Route>
           <Route path="*">
             <Error></Error>
           </Route>

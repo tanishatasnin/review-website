@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Cards from '../Cards/Cards';
+import './Service.css'
 
 
 const Service = () => {
@@ -14,7 +15,7 @@ const Service = () => {
                return (
                               <div>
                                      <div className="container home ">
-                                                    <h1 className='text-center'>All Karate course</h1>
+                                                    <h1 className='text-center'>All kung fu course</h1>
                               <div className=" row row-cols-1 row-cols-md-2">
                                              {
                                                     courses.map(course=><Cards

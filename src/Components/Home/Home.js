@@ -14,8 +14,14 @@ const Home = () => {
                       },[])
                return (
                               <div>
+                                             <div>
+                                                            
+                                                            <h3 className='text-center'>Courses Available – Weekly 2 Classes. <br />
+Hotline: 01674842132 <br />
+ADMISSION GOING ON</h3>
+                                             </div>
                                              
-                                             <div className="container home ">
+                                             <div className="container home-page ">
                                              {/* <About></About> */}
                                              <h1 className='text-center'>our classes</h1>
                               <div className=" row row-cols-1 row-cols-md-2">

@@ -56,7 +56,23 @@ const Others = () => {
                                                                              Boxing etc. are very popular in 
                                                                              their own place.</p></div>
                                              </div>
-                                             </div>      
+                                             </div> 
+                                             <div>
+                                             <h1 className ='container  text-center' > History of kung fu</h1>
+                                                            <div className ='container d-flex align-items-center justify-content-center'>
+
+                                                            <img className='history-img' src="https://shaolinwarriormartialarts.com/wp-content/uploads/2015/02/shaolin_pictures-3.jpg" alt="" />
+                                                            <img className='history-img' src="https://shaolinwarriormartialarts.com/wp-content/uploads/2015/02/shaolin_pictures-4.jpg" alt="" />
+                                                            <img  className='history-img' src="https://shaolinwarriormartialarts.com/wp-content/uploads/2015/02/shaolin_pictures-1.jpg" alt="" />
+                                                            
+                                                            </div>
+                                                            
+                                                            <p className='text-center'>Shaolin Kung Fu, also called Shaolin Wushu, is believed to be the oldest institutionalized style of Kung Fu and is one of the most famous martial arts. Shaolin Kung Fu originated and was developed in the Buddhist Shaolin temple in Songshan mountain, Henan province, China. During the 1500 years of the development of Shaolin kung fu, it became one of the biggest schools of Kung Fu, and numerous other styles were created or inspired based on Shaolin Kung Fu. One Chinese saying is: “All martial arts under heaven arose out of Shaolin.” Shaolin Kung Fu has various barehanded and weapon styles, every style with a few routines for health, and fighting.
+
+Besides the core style of Shaolin Temple, the name Shaolin is used as a brand for the so-called external styles of Kung Fu or Wushu. There are many such styles outside of Shaolin temple, mainly in southern and northern China, that use the name Shaolin.</p>
+
+                                             </div>
+
                               </div>
                );
 };
