@@ -6,41 +6,54 @@ import {
   Route,
   Link
 } from "react-router-dom";
+
+// _____ Imports all component ____ 
 import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
 import Home from "./Components/Home/Home";
 import About from "./Components/AboutUs/About";
-import Error from "./Components/Error/Error"
+
 import Service from "./Components/Service/Service";
 import Others from "./Components/Others/Others";
+import NotFound from "./Components/NotFound/NotFound";
 function App() {
   return (
     <div>
+      {/* ____________________ start router ____________  */}
       <Router>
       <Header></Header>
-      {/* <Home></Home> */}
 
         <Switch>
+          
+        
           <Route path='/home'>
 <Home></Home>
           </Route>
+          
 
           <Route path="/service">
             <Service></Service>
           </Route>
+          {/* <Route path="*">
+            <Error></Error>
+          </Route> */}
           <Route path='/about'>
             <About></About>
           </Route>
+          
           <Route path='/others'>
             <Others></Others>
           </Route>
-          <Route path='/'>
+
+          <Route exact path='/'>
   <Home></Home>
 </Route>
-          <Route path="*">
-            <Error></Error>
+<Route path="*">
+        <NotFound></NotFound>
           </Route>
+          
         </Switch>
+        
         <Footer></Footer>
       </Router>
     </div>

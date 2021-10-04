@@ -4,7 +4,8 @@ import "./About.css"
 const About = () => {
                return (
                               <div className="about-width">
-                                            <div className=" about-info align-items-center justify-content-center">
+                                {/* _______________ about us part -__________________  */}
+                                                                            <div className=" about-info align-items-center justify-content-center">
                                                            <h1 className="title-about">
                                                                           ABOUT US
                                                                           </h1>

@@ -23,7 +23,7 @@ ADMISSION GOING ON</h3>
                                              
                                              <div className="container home-page ">
                                              {/* <About></About> */}
-                                             <h1 className='text-center'>our classes</h1>
+                                             <h1 className='text-center m-4'>our classes</h1>
                               <div className=" row row-cols-1 row-cols-md-2">
                                              {
                                                     courses.slice(0,4).map(course=><Cards
