@@ -9,17 +9,21 @@ import {
 import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
 import Home from "./Components/Home/Home";
+import About from "./Components/AboutUs/About";
 
 function App() {
   return (
     <div>
       <Router>
       <Header></Header>
-      <Home></Home>
+      {/* <Home></Home> */}
 
         <Switch>
           <Route path="/home">
             <Home></Home>
+          </Route>
+          <Route path='/about'>
+            <About></About>
           </Route>
         </Switch>
         <Footer></Footer>

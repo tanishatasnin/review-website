@@ -1,0 +1,101 @@
+[
+               {
+                              "section":"Kung Fu",
+                              "title": "level-1",
+                              "img":"https://image.freepik.com/free-photo/man-teen-boy-fighting-aikido-training-martial-arts-school-healthy-lifestyle-sports-concept-fightrers-white-kimono-white-wall-karate-men-with-concentrated-faces-uniform_155003-40161.jpg",
+                              "fee":"$ 100",
+                              "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Exercitationem cupiditate aliquam quod odit"
+
+               },
+               {
+                              "section":"Animal Kung Fu",
+                              "title": "level-2",
+                              "img":" https://image.freepik.com/free-photo/two-boys-fighting-aikido-training-martial-arts-school-healthy-lifestyle-sports-concept_155003-9471.jpg",
+                              "fee":"$ 110",
+                              "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Exercitationem cupiditate aliquam quod odit"
+                              
+
+               },
+               {
+                              "section":"Drunken Kung Fu",
+                              "title": "level-3",
+                              "img":"https://image.freepik.com/free-photo/two-judokas-fighters-fighting-men_155003-10228.jpg",
+                              "fee":"$ 120",
+                              "text":" "
+
+               },
+               {
+                              "section":"Wing Chun Kung Fu",
+                              "title": "level-4",
+                              "img":"https://as2.ftcdn.net/v2/jpg/00/40/32/99/500_F_40329932_O7LjRDi3LWjHAb9GIYKrIvcUXzSNNLRc.jpg",
+                              "fee":"$ 120",
+                              "text":" Wing Chun was also the first Kung Fu style Bruce Lee was ever taught, by the acclaimed master Ip Man. "
+
+               },
+               {
+                              "section":"Tai chi",
+                              "title": "level-5",
+                              "img":" https://image.freepik.com/free-photo/four-karate-fighters-white-kimono-group-training-karatekas-workout-martial-arts-fighting_266732-21269.jpg",
+                              "fee":"$ 140",
+                              "text":"Tai Chi is undoubtedly the most popular Kung Fu style today and counts millions of followers worldwide. "
+
+               },
+               {
+                              "section":"Tai chi",
+                              "title": "level-6",
+                              "img":"https://image.freepik.com/free-photo/martial-arts-masters-self-defence-practice-gym_266732-11600.jpg",
+                              "fee":"$ 150",
+                              "text":"Tai Chi is undoubtedly the most popular Kung Fu style today and counts millions of followers worldwide. "
+
+               },
+               {
+                              "section":"Jeet Kun Du",
+                              "title": "level-7",
+                              "img":" https://image.freepik.com/free-photo/two-young-judo-fighters-kimono-training-martial-arts-gym-with-expression-action-motion_155003-34064.jpg",
+                              "fee":"$ 150",
+                              "text":" "
+
+               },
+               {
+                              "section":" Street Fighting",
+                              "title": "level-8",
+                              "img":"https://image.freepik.com/free-photo/karate-round-kick-punching-bag_155003-280.jpg ",
+               
+                              "fee":"$ 200",
+                              "text":" "
+
+               },
+               {
+                              "section":"Wushu",
+                              "title": "level-9",
+                              "img":"https://as1.ftcdn.net/v2/jpg/02/52/54/86/500_F_252548604_JsAeAzJiCJeJwhzD0XaS0oY2C0DspmVy.jpg",
+                              "fee":"$ 200",
+                              "text":""
+
+               },
+               {
+                              "section":"The Northern Praying Mantis",
+                              "title": "level-10",
+                              "img":"https://image.freepik.com/free-photo/composite-image-karate-girl-white-kimono-with-black-belt-jump_212944-10716.jpg",
+                              "fee":"$ 200",
+                              "text":" a wholesome unique aesthetic that welds the style with potency and effectiveness."
+
+               },
+               {
+                              "section":"Baguazhang",
+                              "title": "level-11",
+                              "img":"https://image.freepik.com/free-photo/composite-image-karate-girl-jumping-dark-background_212944-11941.jpg",
+                              "fee":"$ 200",
+                              "text":" Baguazhang is one of the main internal Kung Fu styles. Also known as the Eight Trigram Palm"
+
+               },
+               {
+                              "section":"Shaolin Kung Fu",
+                              
+                              "title": "level-12",
+                              "img":"https://image.freepik.com/free-photo/karate-girl-with-black-belt_155003-9237.jpg",
+                              "fee":"$ 200",
+                              "text":"one of the most sophisticated and identifiable among all Kung Fu styles, and is inextricably linked with the teachings of Chen or Zen Buddhism "
+
+               }
+]
