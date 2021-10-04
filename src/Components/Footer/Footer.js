@@ -3,6 +3,7 @@ import './Fotter.css'
 
 const Footer = () => {
                return (
+                              // _____________ footer __________ 
                               <div className="footer text-center align-items-center justify-content-center">
                                     <p>© 2021 kung fu house</p>
                                     <p>

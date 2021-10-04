@@ -10,6 +10,9 @@ const Header = () => {
       <div className="">
         <div className="row d-flex banner align-items-center justify-content-center">
         <div className='text-center'>
+
+
+          {/* ____________________ navlink _______  */}
         <NavLink  className=" about-btn" to="/home">
             Home
             </NavLink>
@@ -24,7 +27,7 @@ const Header = () => {
             <NavLink  className=" about-btn" to="others">
             Others
             </NavLink>
-            
+            {/* _______________ nav link close ___________  */}
                                 </div>
           <div className="col-md-12">
             <h1 className="title text-center">

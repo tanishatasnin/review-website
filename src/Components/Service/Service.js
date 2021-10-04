@@ -6,7 +6,7 @@ import './Service.css'
 const Service = () => {
                
                const [courses ,setProducts] =useState([])
-
+// _________________ data fetch _____________ 
                useEffect(()=>{
                               fetch('./data.JSON')  
                               .then(res=>res.json())   
