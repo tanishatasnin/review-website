@@ -21,7 +21,7 @@ ADMISSION GOING ON</h3>
                                              </div>
                                              
                                              <div className="container home-page ">
-                                             {/* <About></About> */}
+                                             
                                              <h1 className='text-center stafs m-4'>our classes</h1>
                               <div className=" row row-cols-1 row-cols-md-2">
                                              {
@@ -33,6 +33,7 @@ ADMISSION GOING ON</h3>
                               </div>
                              
                               </div>
+                              {/* ___________________________ staffs parrt ___________  */}
                               <div>
                                      <p className="stafs text-center">MEET OUR STAFF</p>
                               </div>
@@ -46,7 +47,7 @@ ADMISSION GOING ON</h3>
                                             <h4>Jake Silva</h4>
                                             <h5>Owner and Chief Instructor</h5>
                                             </div>
-                                            <p>He is one of the leading Karate Master.He has a lot of achievement in his Martial Arts career</p>
+                                            <p className='text-center p-2'>He is one of the leading Karate Master.He has a lot of achievement in his Martial Arts career</p>
                                      </div>
                                      </div>
 
@@ -77,6 +78,7 @@ ADMISSION GOING ON</h3>
                                      </div>
 
                               </div>
+                              {/* _________________________ staff part close ___________  */}
                               
                               
                               </div>

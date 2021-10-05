@@ -85,6 +85,8 @@ const Others = () => {
                                  </div>
                                 </div>
                                 {/* _____________________________ programs part close _________________  */}
+
+                                {/* ______________________ history part _____________  */}
                                              <div className='history'>
                                              <h1 className ='container  text-center' > History of kung fu</h1>
                                                             <div className="his-main">

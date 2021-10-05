@@ -16,6 +16,7 @@ import About from "./Components/AboutUs/About";
 import Service from "./Components/Service/Service";
 import Others from "./Components/Others/Others";
 import NotFound from "./Components/NotFound/NotFound";
+import FaQ from "./Components/FaQ/FaQ";
 function App() {
   return (
     <div>
@@ -41,8 +42,11 @@ function App() {
             <About></About>
           </Route>
           
-          <Route path='/others'>
+          <Route path='/programs'>
             <Others></Others>
+          </Route>
+          <Route path='/Faq'>
+            <FaQ></FaQ>
           </Route>
 
           <Route exact path='/'>

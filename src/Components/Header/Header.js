@@ -24,8 +24,11 @@ const Header = () => {
             <NavLink  className=" about-btn" to="/service">
             Service
             </NavLink>
-            <NavLink  className=" about-btn" to="others">
-            Others
+            <NavLink  className=" about-btn" to="/programs">
+            Programs
+            </NavLink>
+            <NavLink  className=" about-btn" to="/faq">
+            FAQ
             </NavLink>
             {/* _______________ nav link close ___________  */}
                                 </div>
