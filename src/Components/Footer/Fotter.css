@@ -1,7 +1,21 @@
 .footer{
                width: 100%;
-               height: 200px;
+               height: 270px;
                background-color: black;
                color: white;
                padding-top: 10px;
+}
+.search{
+               width: 370px;
+               height: 40px;
+               border: 5px solid white;
+               background-color: black;
+               
+}
+.button{
+               height: 40px;
+               color: black;
+               border: 2px solid rgb(240, 115, 26) ;
+               background-color: rgb(240, 115, 26);
+               border-radius: 3px;
 }

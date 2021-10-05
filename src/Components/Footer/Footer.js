@@ -5,11 +5,15 @@ const Footer = () => {
                return (
                               // _____________ footer __________ 
                               <div className="footer text-center align-items-center justify-content-center">
-                                    <p>© 2021 kung fu house</p>
+                                    
+                                    <h1>STAY UPDATED</h1>
+                                    <input className="search" type="text" placeholder='Enter Your email' />
+                                    <button className='button m-4'> Submit</button>
                                     <p>
-                                    You can learn, just not on the same day, or the same way
+                                    © 2021 kung fu house
                                     </p>
-                                    <small>Tanisha tasnin kona</small>     
+                                    <p> Proudly created with pHero.com</p>
+                                    <small>Tanisha Tasnin Kona</small>     
                               </div>
                );
 };
