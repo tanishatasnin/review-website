@@ -4,7 +4,9 @@ import './Others.css'
 const Others = () => {
                return (
                               <div className='other'>
-
+                                
+                                
+{/* __________________________________________________ information part  ______  */}
 <div className='text-center'>
           <h1 >
                          Informations
@@ -57,9 +59,37 @@ const Others = () => {
                                                                              their own place.</p></div>
                                              </div>
                                              </div> 
-                                             <div>
+                                             {/* __________________________ information part close __________  */}
+
+
+
+                                             {/* ___________________ programs part ___________________  */}
+                                             <div className='container text-center'> 
+                                  <h1 className='program'>PROGRAMS</h1>
+                                 <div className='programs'>
+                                 <div className =' pro d-flex'>
+                                    <p className=' pro-name col-md-6'>Trial Class</p>
+                                    <p className='pro-time col-md-4'>1 hr 30 mins <br /> Price Free</p>
+                                    <button className='pro-button col-md-2'>Register</button>
+                                  </div>
+                                  <div className ='pro d-flex'>
+                                    <p className='pro-name col-md-6'>Young Karate Class (ages 3-5)</p>
+                                    <p className='pro-time col-md-4'>Start Jan 2,2023 <br /> $ 175</p>
+                                    <button className='pro-button col-md-2'>Register</button>
+                                  </div>
+                                  <div className ='pro d-flex'>
+                                    <p className='pro-name col-md-6'>Mini Dragon Class(5-10)</p>
+                                    <p className='pro-time col-md-4'> Start Jan 4,2023<br />$ 224 </p>
+                                    <button className='pro-button col-md-2'>Register</button>
+                                  </div>
+                                 </div>
+                                </div>
+                                {/* _____________________________ programs part close _________________  */}
+                                             <div className='history'>
                                              <h1 className ='container  text-center' > History of kung fu</h1>
-                                                            <div className ='container d-flex align-items-center justify-content-center'>
+                                                            <div className="his-main">
+                                                            <div className ='
+                                                             container d-flex align-items-center justify-content-center'>
 
                                                             <img className='history-img' src="https://shaolinwarriormartialarts.com/wp-content/uploads/2015/02/shaolin_pictures-3.jpg" alt="" />
                                                             <img className='history-img' src="https://shaolinwarriormartialarts.com/wp-content/uploads/2015/02/shaolin_pictures-4.jpg" alt="" />
@@ -71,6 +101,7 @@ const Others = () => {
 
 Besides the core style of Shaolin Temple, the name Shaolin is used as a brand for the so-called external styles of Kung Fu or Wushu. There are many such styles outside of Shaolin temple, mainly in southern and northern China, that use the name Shaolin.</p>
 
+                                                            </div>
                                              </div>
 
                               </div>
